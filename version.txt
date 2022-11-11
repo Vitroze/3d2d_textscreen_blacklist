@@ -1,0 +1,1 @@
+Version de l'addon : 0.5
